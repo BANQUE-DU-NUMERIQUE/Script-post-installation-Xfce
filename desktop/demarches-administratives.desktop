@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Démarches Administratives
+Comment=Les Services de l'État dans les Alpes Maritimes, Démarches Administratives
+Exec=xdg-open https://www.alpes-maritimes.gouv.fr/Demarches-administratives
+Icon=/usr/share/banque du numérique/icons/gouv_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

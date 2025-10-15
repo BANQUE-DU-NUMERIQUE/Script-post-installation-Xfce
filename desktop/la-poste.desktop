@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=La Poste
+Comment=Achetez des Timbres, Envoyez Courrier, Colis - La Poste
+Exec=xdg-open https://www.laposte.fr/
+Icon=/usr/share/banque du numérique/icons/la_poste_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

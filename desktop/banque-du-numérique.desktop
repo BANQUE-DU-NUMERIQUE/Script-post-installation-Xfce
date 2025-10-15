@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Banque du Numérique
+Comment=Lutte contre la fracture numérique et l'illectronisme
+Exec=xdg-open https://www.banquedunumerique.org/
+Icon=/usr/share/banque du numérique/icons/ABN_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

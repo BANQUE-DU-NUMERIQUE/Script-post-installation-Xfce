@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=CESU
+Comment=Chèque Emploi Service Universel, urssaf
+Exec=xdg-open https://www.cesu.urssaf.fr/info/accueil.html
+Icon=/usr/share/banque du numérique/icons/cesu_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

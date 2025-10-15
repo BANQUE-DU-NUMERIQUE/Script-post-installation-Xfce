@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Ameli
+Comment=Assurance Maladie, Compte Ameli
+Exec=xdg-open https://www.ameli.fr/assure/sante/assurance-maladie
+Icon=/usr/share/banque du numérique/icons/ameli_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

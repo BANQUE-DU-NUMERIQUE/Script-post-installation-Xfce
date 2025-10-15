@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=CAF
+Comment=Caisse d'Allocation Familliales
+Exec=xdg-open https://www.caf.fr/
+Icon=/usr/share/banque du numérique/icons/caf_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Mes Démarches 06
+Comment=Département des Alpes Maritimes, Mes Démarches 06
+Exec=xdg-open https://mesdemarches06.fr/
+Icon=/usr/share/banque du numérique/icons/dept06_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

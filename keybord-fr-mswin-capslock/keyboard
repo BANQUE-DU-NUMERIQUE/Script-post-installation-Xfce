@@ -1,0 +1,10 @@
+# KEYBOARD CONFIGURATION FILE
+
+# Consult the keyboard(5) manual page.
+
+XKBMODEL="pc105"
+XKBLAYOUT="fr-custom"
+XKBVARIANT="legacy_capslock_numbers"
+XKBOPTIONS=""
+
+BACKSPACE="guess"

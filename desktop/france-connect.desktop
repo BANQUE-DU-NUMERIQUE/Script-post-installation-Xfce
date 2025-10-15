@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=France Connect
+Comment=Découvrez les services disponibles via FranceConnect
+Exec=xdg-open https://franceconnect.gouv.fr/nos-services
+Icon=/usr/share/banque du numérique/icons/france-connect_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

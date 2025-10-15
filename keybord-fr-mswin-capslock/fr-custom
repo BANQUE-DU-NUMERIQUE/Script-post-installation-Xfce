@@ -1,0 +1,17 @@
+default partial alphanumeric_keys
+xkb_symbols "legacy_capslock_numbers" {
+
+    include "fr"
+    replace key <CAPS> { [ Caps_Lock ] };
+
+    key <AE01>	{ type= "FOUR_LEVEL_ALPHABETIC", [  ampersand, 1, onesuperior, onesuperior ] };
+    key <AE02>	{ type= "FOUR_LEVEL_ALPHABETIC", [     eacute, 2,  asciitilde,  asciitilde ] };
+    key <AE03>	{ type= "FOUR_LEVEL_ALPHABETIC", [   quotedbl, 3,  numbersign,  numbersign ] };
+    key <AE04>	{ type= "FOUR_LEVEL_ALPHABETIC", [ apostrophe, 4,   braceleft,   braceleft ] };
+    key <AE05>	{ type= "FOUR_LEVEL_ALPHABETIC", [  parenleft, 5, bracketleft, bracketleft ] };
+    key <AE06>	{ type= "FOUR_LEVEL_ALPHABETIC", [      minus, 6,         bar,         bar ] };
+    key <AE07>	{ type= "FOUR_LEVEL_ALPHABETIC", [     egrave, 7,       grave,       grave ] };
+    key <AE08>	{ type= "FOUR_LEVEL_ALPHABETIC", [ underscore, 8,   backslash,   backslash ] };
+    key <AE09>	{ type= "FOUR_LEVEL_ALPHABETIC", [   ccedilla, 9, asciicircum, asciicircum ] };
+    key <AE10>	{ type= "FOUR_LEVEL_ALPHABETIC", [     agrave, 0,          at,          at ] };
+};

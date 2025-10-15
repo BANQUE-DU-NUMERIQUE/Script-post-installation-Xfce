@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=CARSAT Sud-Est
+Comment=Caisse d'Assurance Retrait et de la Santé au Travail, Sud-Est
+Exec=xdg-open https://www.carsat-sudest.fr/
+Icon=/usr/share/banque du numérique/icons/carsat_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

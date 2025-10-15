@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=France Travail
+Comment=Accueil France Travail
+Exec=xdg-open https://www.pole-emploi.fr/accueil/
+Icon=/usr/share/banque du numérique/icons/france-travail_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

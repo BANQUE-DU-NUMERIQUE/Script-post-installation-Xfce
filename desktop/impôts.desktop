@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Impôts
+Comment=impots.gouv.fr
+Exec=xdg-open https://www.impots.gouv.fr/accueil
+Icon=/usr/share/banque du numérique/icons/impots_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

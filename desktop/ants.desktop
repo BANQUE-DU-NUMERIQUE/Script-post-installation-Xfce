@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ANTS
+Comment=Agence Nationale des Tires Sécurisés
+Exec=xdg-open https://ants.gouv.fr/
+Icon=/usr/share/banque du numérique/icons/ants_128_128.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
