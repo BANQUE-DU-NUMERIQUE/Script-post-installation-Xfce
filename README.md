@@ -51,7 +51,7 @@ Objectif : simplifier et standardiser la mise en service d’ordinateurs recondi
 ## Prérequis
 
 - Distribution **Linux Mint Xfce** (ou environnement Xfce équivalent)
-- Accès administrateur (`sudo` ou `root`)
+- Mot de passe de la session éxecutant le script
 - Exécution recommandée juste après l’installation du système
 
 ---
