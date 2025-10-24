@@ -120,7 +120,7 @@ Vous êtes libre de l’utiliser, le modifier et le redistribuer sous les mêmes
 ## Remerciements
 
 Merci à toutes les personnes ayant contribué au projet **Script post-installation Xfce**,
-et à la communauté **BANQUE-DU-NUMERIQUE** pour sa démarche d’inclusion et de revalorisation numérique.
+et à la communauté **BANQUE-DU-NUMERIQUE** pour sson accompagement dans la démarche d’inclusion et de revalorisation numérique.
 
 Ce script facilite la configuration de postes Linux Mint Xfce,
 en simplifiant la mise en service et en promouvant la réutilisation responsable du matériel.
