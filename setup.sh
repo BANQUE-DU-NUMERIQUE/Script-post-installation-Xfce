@@ -83,22 +83,3 @@ sudo cp ./keybord-fr-mswin-capslock/fr-custom /usr/share/X11/xkb/symbols
 sudo rm /etc/default/keyboard
 sudo cp ./keybord-fr-mswin-capslock/keyboard /etc/default
 
-Desktop Entry]
-Version=1.0
-Name=Banque du Numérique
-Comment=Lutte contre la fracture numérique et l'illectronisme
-Exec=xdg-open https://www.banquedunumerique.org/
-Icon=/usr/share/banque du numérique/icons/ABN_128_128.png
-Terminal=false
-Type=Application
-Categories=Network;WebBrowser;
-Desktop Entry]
-Version=1.0
-Name=Google
-Comment=Google Search
-Exec=xdg-open https://www.google.com/
-Icon=/usr/share/banque du numérique/icons/google_128_128.png
-Terminal=false
-Type=Application
-Categories=Network;WebBrowser;
-
