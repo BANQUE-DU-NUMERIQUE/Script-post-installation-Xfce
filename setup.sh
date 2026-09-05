@@ -79,7 +79,7 @@ done
 
 # Custom layout pour Shit Lock mswindows style
 echo -e "\033[0;94m> Changement du comportement de la touche SHIFT-LOCK: Style ms-windows\033[0m"
-sudo cp ./keybord-fr-mswin-capslock/fr-custom /usr/share/X11/xkb/symbols
+sudo cp ./keybord-fr-mswin-capslock/fr-new /usr/share/X11/xkb/symbols
 sudo rm /etc/default/keyboard
 sudo cp ./keybord-fr-mswin-capslock/keyboard /etc/default
 
